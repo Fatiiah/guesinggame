@@ -16,4 +16,4 @@ A simple Python-based number guessing game where the player tries to guess a ran
 3. Run the program:
 
    ```bash
-   python guess_the_number.py
+   python main.py
